@@ -4,3 +4,7 @@ bower_components/
 
 build/
 dist/
+download/
+.DS_Store
+.idea/
+./dist
